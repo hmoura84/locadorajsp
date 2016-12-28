@@ -1,0 +1,67 @@
+
+
+label {
+  font-family: verdana;  
+  color: graytext;
+  
+}
+h1 {
+  font-size: 20px;   
+  color: gray;
+  font-family: verdana;
+  line-height: 2;
+  letter-spacing: 1px
+    
+}
+label {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  
+}
+body {
+  background-color: #fff;
+}
+.corpointerno{
+    
+    margin: 5px;  
+    
+     	
+    
+    
+}
+.corpo{
+    border-width: 2px;
+    border-color: gray;
+    border-style: solid;
+    border-radius: 8px;
+    margin: 1em auto;  
+    width: 400px;  	
+    background-color: #ccccff
+    
+    
+    
+}
+.label{
+    width: 350px;
+    font-family: verdana;
+    color: gray;
+}
+.boxtexto1{
+    
+     
+    width: 40px;  	
+    
+     
+}
+.boxtexto2{
+    
+     
+    width: 300px;  
+    
+    
+     
+}
